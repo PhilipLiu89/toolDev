@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  md5.cpp
+  Crypto.cpp
+e:\work_dir\tool_dev\renamemd5\crypto.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  ReNameMD5.cpp
+  ReNameMD5.vcxproj -> E:\work_dir\tool_dev\ReNameMD5\Debug\ReNameMD5.exe
